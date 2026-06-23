@@ -56,4 +56,28 @@ Open Source
 这里放学习项目
 ## GitHub Stats
 
-Coming Soon...
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true"
+  />
+</p>
+
+---
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact"
+  />
+</p>
+
+
+---
+
+
+
+
+## Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
+
