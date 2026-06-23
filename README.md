@@ -2,9 +2,11 @@
 
 # Lokumi
 
-> 我们凝望最初的凝望，感到另一颗心跨越时空。
+> 愿以代码构筑秩序
+   以安全守护自由
 >
-> *We gaze upon the first gaze, feeling another heart transcend time and space.*
+> *Building order with code
+protecting freedom through security.*
 
 </div>
 
@@ -20,11 +22,11 @@
 
 ☁️ 对云安全与自动化安全感兴趣
 
-🐍 Golang,Python 开发者
+🐍 Golang / Python 开发者
 
 ---
 
-### 当前关注
+## 当前关注
 
 ```text
 Web Security
@@ -32,6 +34,8 @@ Agent Security
 MCP Security
 Security Automation
 Open Source
+```
+
 ## 项目展示
 
 | 项目 | 简介 | 状态 |
@@ -43,15 +47,22 @@ Open Source
 
 ---
 
+## GitHub Stats
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true&theme=tokyonight"
-/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bronsan&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
+## Most Used Languages
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact&theme=tokyonight"
-/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bronsan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
