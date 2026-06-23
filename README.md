@@ -39,10 +39,21 @@ Open Source
 
 ## Featured Projects
 
-Coming Soon...
+### 🔥 Main Project
+
+这里放当前最重要项目
 
 ---
 
+### 🛠 Experimental
+
+这里放正在测试项目
+
+---
+
+### 📚 Learning
+
+这里放学习项目
 ## GitHub Stats
 
 Coming Soon...
