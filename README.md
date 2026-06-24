@@ -16,23 +16,28 @@ protecting freedom through security.*
 
 <table align="center" width="100%">
   <tr>
-    <!-- ⬇️ 左侧：继续展示你的 GitHub 核心数据 ⬇️ -->
+    <!-- 左侧：展示你的 GitHub 核心数据 -->
     <td align="center" width="50%" valign="top">
-      <!-- ⚠️ 记得将 Radiant303 替换为你自己的 GitHub 用户名 -->
-      <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/main/metrics.left.svg" alt="GitHub Metrics" width="100%">
+      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.left.svg" alt="GitHub Metrics" width="100%">
     </td>
     
-    <!-- ⬇️ 右侧：接入精美的 Bilibili 专属卡片 ⬇️ -->
+    <!-- 右侧：同时展示修复后的 Apple Music 和全新的 Bilibili 卡片 -->
     <td align="center" width="50%" valign="top">
-      <!-- ⚠️ 必须将下方 src=" " 里的 vmid= 后面修改为你的 B站 UID ⚠️ -->
-      <a href="https://space.bilibili.com/你的B站UID">
+      <!-- 1. Apple Music 音乐卡片 -->
+      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.right.svg" alt="Apple Music" width="100%">
+      
+      <br><br> <!-- 留出一点上下间距 -->
+
+      <!-- 2. Bilibili 专属卡片 (把下方的 你的B站UID 替换为你的真实数字，例如 vmid=123456) -->
+      <a href="https://space.bilibili.com/696043659">
         <img src="https://github-readme-bilibili-card.vercel.app/api/card?vmid=你的B站UID&theme=default" alt="Bilibili Card" width="100%">
       </a>
     </td>
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=FF69B4&style=flat-square)
+<!-- 底部的访问量计数器（已帮你修正用户名） -->
+![](https://komarev.com/ghpvc/?username=Loku&color=FF69B4&style=flat-square)
 🐍 Golang / Python 开发者
 
 ---
