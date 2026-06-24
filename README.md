@@ -66,3 +66,18 @@ Open Source
 ## Contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
+
+
+---
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Radiant303/Radiant303/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
+    </td>
+  </tr>
+</table>
+
+![](https://komarev.com/ghpvc/?username=Radiant303&color=FF69B4&style=flat-square)
