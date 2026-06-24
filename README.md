@@ -17,9 +17,9 @@
       <br><br>
       <img src="metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
       <br><br>
-      <a href="[https://space.bilibili.com/696043659](https://space.bilibili.com/696043659)" target="_blank">
-        <img src="[https://img.shields.io/badge/Bilibili-关注我的B站空间-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white](https://img.shields.io/badge/Bilibili-关注我的B站空间-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)" alt="Bilibili" width="100%">
-      </a>
+      <a href="https://space.bilibili.com/696043659" target="_blank">
+  <img src="https://github-readme-bilibili-card.vercel.app/api/card?vmid=696043659&theme=default" alt="Bilibili Card" width="100%">
+</a>
     </td>
   </tr>
 </table>
