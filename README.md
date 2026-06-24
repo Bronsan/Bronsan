@@ -17,16 +17,15 @@ protecting freedom through security.*
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg" alt="Metrics Left" width="100%">
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg" alt="Metrics Right" width="100%">
     </td>
   </tr>
 </table>
 
-![](https://space.bilibili.com/696043659&color=FF69B4&style=flat-square)
-
+![](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=FF69B4&style=flat-square)
 🐍 Golang / Python 开发者
 
 ---
