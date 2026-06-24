@@ -32,7 +32,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
 
-      # 2. 生成右侧的娱乐/生活数据（音乐、动漫等）
+      # 2. 生成右侧的 Apple Music 音乐卡片
       - name: Right Metrics (Music)
         uses: lowlighter/metrics@latest
         with:
@@ -43,13 +43,14 @@ jobs:
           plugin_music_provider: apple
           plugin_music_mode: album
           plugin_music_playlist: https://embed.music.apple.com/cn/album/sugar-flavor-single/6776533418
-          plugin_music_limit: 5
+          plugin_music_limit: 1
 
-      - name: Profile and detailed game history
+      # 3. 生成 Steam 游戏数据卡片
+      - name: Steam Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.steam.full.svg
           base: ""
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
