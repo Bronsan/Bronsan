@@ -28,7 +28,7 @@ protecting freedom through security.*
       <br><br>
 
       <!-- 2. Steam 游戏数据卡片 -->
-      <img src="https://raw.githubusercontent.com/Lokumi/Lokumi/main/metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
 
       <br><br>
 
