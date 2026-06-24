@@ -23,7 +23,7 @@ protecting freedom through security.*
     <!-- 右侧：同时展示 Apple Music、Steam 以及全新的 Bilibili 卡片 -->
     <td align="center" width="50%" valign="top">
       <!-- 1. Apple Music 音乐卡片 -->
-      <img src="https://raw.githubusercontent.com/Lokumi/Lokumi/main/metrics.right.svg" alt="Apple Music" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg" alt="Apple Music" width="100%">
       
       <br><br>
 
