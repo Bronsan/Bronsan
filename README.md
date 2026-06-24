@@ -29,7 +29,7 @@
       <br><br>
 
       <p align="right" style="margin: 0; padding: 0;">
-        <img width="260" src="./assets/witch.jpg" alt="Witch">
+        <img width="260" src="./assets/witch.jpg" alt="witch">
       </p>
     </td>
   </tr>
