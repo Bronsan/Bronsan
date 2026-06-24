@@ -39,4 +39,16 @@ _Contributor and Developer of **[Lokumi](https://github.com/Bronsan/Lokumi)**_
   </tr>
 </table>
 
+
+
+---
+
+
+## Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Bronsan/Lokumi/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Lokumi&color=FF69B4&style=flat-square)
