@@ -16,11 +16,18 @@ protecting freedom through security.*
 
 <table align="center" width="100%">
   <tr>
+    <!-- ⬇️ 左侧：继续展示你的 GitHub 核心数据 ⬇️ -->
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg" alt="Metrics Left" width="100%">
+      <!-- ⚠️ 记得将 Radiant303 替换为你自己的 GitHub 用户名 -->
+      <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/main/metrics.left.svg" alt="GitHub Metrics" width="100%">
     </td>
+    
+    <!-- ⬇️ 右侧：接入精美的 Bilibili 专属卡片 ⬇️ -->
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg" alt="Metrics Right" width="100%">
+      <!-- ⚠️ 必须将下方 src=" " 里的 vmid= 后面修改为你的 B站 UID ⚠️ -->
+      <a href="https://space.bilibili.com/你的B站UID">
+        <img src="https://github-readme-bilibili-card.vercel.app/api/card?vmid=你的B站UID&theme=default" alt="Bilibili Card" width="100%">
+      </a>
     </td>
   </tr>
 </table>
