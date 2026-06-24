@@ -17,7 +17,7 @@ protecting freedom through security.*
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.left.svg" alt="GitHub Metrics" width="100%">
+      <img src="metrics.left.svg" alt="GitHub Metrics" width="100%">
     </td>
     
     <td align="center" width="50%" valign="top">
@@ -35,7 +35,6 @@ protecting freedom through security.*
     </td>
   </tr>
 </table>
-
 ![](https://komarev.com/ghpvc/?username=Lokumi&color=FF69B4&style=flat-square)
 🐍 Golang / Python 开发者
 
