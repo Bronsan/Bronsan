@@ -23,6 +23,10 @@
     </td>
   </tr>
 </table>
+</div>
+
+<img align="right" width="260" src="./assets/witch.jpg">
+
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lokumi&color=FF69B4&style=flat-square)
