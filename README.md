@@ -21,11 +21,11 @@ protecting freedom through security.*
     </td>
     
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg" alt="Apple Music" width="100%">
+      <img src="metrics.right.svg" alt="Apple Music" width="100%">
       
       <br><br>
 
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
+      <img src="metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
 
       <br><br>
 
