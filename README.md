@@ -23,12 +23,13 @@ protecting freedom through security.*
     <!-- 右侧：同时展示 Apple Music、Steam 以及全新的 Bilibili 卡片 -->
     <td align="center" width="50%" valign="top">
       <!-- 1. Apple Music 音乐卡片 -->
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg" alt="Apple Music" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.right.svg?v=1" alt="Apple Music" width="100%">
+
       
       <br><br>
 
       <!-- 2. Steam 游戏数据卡片 -->
-      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg" alt="Steam Stats" width="100%">
+      <img src="https://raw.githubusercontent.com/Bronsan/Lokumi/main/metrics.plugin.steam.full.svg?v=1" alt="Steam Stats" width="100%">
 
       <br><br>
 
