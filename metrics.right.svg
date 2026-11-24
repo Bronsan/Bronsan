@@ -23,39 +23,39 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAMEAgYBBQcI/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDEQAEEiExBQYTQRQiUWGBQnHB8BUyUv/EABoBAAICAwAAAAAAAAAAAAAAAAIEAAYBAwX/xAAfEQACAgIDAQEBAAAAAAAAAAABAgADBBESITETMlH/2gAMAwEAAhEDEQA/APAbCzauGVkhkKbAyLjyU5anaTr8VVectQACwZEHSD+apuutKjFySdSIPlqFTiFfUZ+1EEY+CZJEOlKnFFAhBOgjtWTe21RFQP2qRCgESZxOkxRfF/4YOxMhqrHEa94pWSFIAzJIE/5NKEoR6IY2Ya6arVxvw8urIKF5bCuGrRSlkQdKv2iPFWQRbEBxptTigowcREx6nfSux5ctgt5LrygWEqGWQnL2A71acXFrs47g0K976YSq1wV5NobhTDnhycQ7iccvQK2n2qJq0UyttzpFWKp12NfU3MvMfBLvkNYvblpq3ftptbBppLfQUCVIwbEqzEgFchOg01mvE+DW6OMXTrSnbYMMJU8pp55LS3ykHFIJI09QNaaVkaku6cdHU6y4ClexNJvldYqwZbZSdAnfT91mlbZb8s3HEUvm6Qjh7jLwLzgA6KGCCSseYlREfTM7b0quX31O+9wQtdfTDU1GyvbRyEPsICu2IxPwR+a7qwYxcYV/JdDhqpQpa92++Mep7bA+1KU7gZNmtb8kc/THd/GA6I9ldi/zuyknJKTjvuBpUdyto3R9Cf3SlKfycqx6+zGsR2fHVm7Mqrdy6qiClqITn/aPilKVWb7TzM3fkCf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAUGB//EAC0QAAIBAwIDCAEFAQAAAAAAAAECAwAEEQUhBiIxBxITQVFhcZEUQlKBobHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOJOfc1O0XS7rWNRis7JGknkOwA8huSfQY86gPsTWo4JuJ7WPWru1UGaKxbB6Yy6g/1/lBIuuCxbhlm1aFHQZbkyqn5z/wArNyWRguliM0cqMcCSI5B+9/utx2aX2ky6w8vFlqbm26hmjaQDyPKOvX0rcduWm8F2fD2l3PD1ta22ozSpMn48bJ4kBBBJ8uuPeg4LOvhzSICSFYr9Gii53uJiP3nf+aKBJM5OOtaBmS0nj0yGWO3VoSk8xOQ7kE4OOgzy+1U1lEst5Aj57ryKpwd+oqz1fTrWK9aDS5mmwebxSEcH03wG+RQazsm4zi4fmvEv4xMjIxjHhh3Ejbcvyeu/SrHtB1m+ueAtP0rVrBILuGYXUcnfyWh3B+OZxsNvTpXLxFNDcMVVkkj5mBGCKfuXmuEIZj3gO6wzhQBvj7oIEp5yfU0U46oM7kn18qKB2BzFMkijdGDfVSb++/MAaVD4q/r23HodqKKBmGbw1k7699mAAyfmleUSSs0oJVgM904JPvRRQJOsDRsYwyPnYFs7fVFFFB//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Asereje</div>
-                                    <div class="artist">Elly C</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUGBwECAwT/xAA0EAABAgUDAQMJCQAAAAAAAAABAgMABAUGEQcSIUFRs9IUFRYxRVZxlaETIydDU2FzkdH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAdEQACAgMBAQEAAAAAAAAAAAAAAQIRAxIhBDEy/9oADAMBAAIRAxEAPwDV7Pt202rDtl2ZtakzMw9TZZa1+b2lKUotJJJUU8nPUxTydmWlMNBZtOhoz0NPZ8McWEpKNObWKh7Kle5TFFKKKk5KSB0yYZS14gLewm9BLR91qF8va8MHoJaPutQvl7Phh2qclk53TDIwdpyscHnj6GOzsyy0QHHm0EgqG5QGQPWYWGQOoNl2tL2Fcr0vbVFaebpsytDiJFpKkqDSiCCE8HPWCHeokww9p7dSWnm1qFKmshKwSPulQRCHlYqfw1thWVDFKlTx/CmF89fCKa6G3Zc43bd61f5DOw1ob00tgukBPmmV7lMZpfdw0mRqaWnltIdXkp+0I4/ftjoeLHDJamuGfPJx/JsNEqjVUlw4lIB6jENMDrGIUDUKkU/CVVFpSgOUJPP9euGruslNQrDaNw7ScQObxSUnp8LhmTXS31IAGnd0kD2VNd0qCJirXfKXPprdapcpC00qaOAc/lKgjHKEoumhydq0TLNTplV05tqUk77pFLcbpkshxvy1pK0qDSQQcq4OemIziqaYUGqTflE9qHR5h/8AUdqrRI+HPEEEGskktSaq7GFP05tWTbCUXtbiO0on2sn4kqj7kWJZ6Rly8LfdV2uVJs/TdiCCDWea4VoilWbTt7T25mJe6KE/MO0uZbbaZnWiVKLSgAAFZJzxgQQQQmWSUnbLUUj/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Up Ship!</div>
-                                    <div class="artist">Port Blue</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEDBgf/xAAtEAACAgIBAgMFCQAAAAAAAAABAgADBBEhBRIxQWETFCJx0RcyUWJygZGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMhMQT/2gAMAwEAAhEDEQA/APDerYVdTtoDUSWVjnXhHnWMgPY2jFdNXtEZiD2je4pWiqlK1lHQ35/xMONfKMbs6u/ERfdqK7KVAWxF7Sw4GmA+8fU8wvpS3pa5SAAq4Rh+BlFGr0y7x+FCqsM3MJOhtNCTNlvKYlzsx10HAS/oz2MfituGOvPmfP8AbxiDKb4zGXTc98fCw61tCoMk2MCu9cAb/uV4mk9Zz/Sm5yRTWxw8pu+tWsrJXTjgN4b16TfVj2r0O/JJIpa5Kx+YgEkyqy3ZIycnllU91jfqP1nTZL0/Z7hY1Kk5D5DWv8hsf6ITnZXtpHKK3IhIjhvWEmbNznuJ5kSxC6BaEIAb8XLFNFlBUmq3h9eOvSTfKr919jX7TsDEhWO+Pr6whHr6EkipZ2Eg192/PYhCEQz/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Circles</div>
-                                    <div class="artist">Post Malone</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAgMJ/8QAMRAAAQIFAgQEBAcBAAAAAAAAAQIDAAQFBhESIQcTMUEIFCJRFWFxgSQyM3KRobHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAeEQACAgMBAAMAAAAAAAAAAAAAAQIRAyExEgRBUf/aAAwDAQACEQMRAD8AamIO67po1pyLc3X55Eoy64G28gqUtXXCUgEn+InIWLxTvLrN5W3SJQk+TQ4t450hCnNONzt0R/cA0rdG/puusT1nzlXoE4w6nyzjjD5SVoCwk41J2Ox6jYxpThVxfuqYv2VtO+JOXcmJzPKmGEhJQdBWNk5SpJA6jGPnFpsSfpCuFE3KzdTRKiWClPpaUC6yUAL0lJAOfQdsZIiocL7ror95y9QqrAdnOWJdicUkDlleAVEY6EYT19I+phQU5vS0GWWPEqk9/QyEEEEMRUuJd70+w7cVU6gFOOOL5Mswnq66QSE57DYknsITu4Lirtcu1Uypa3n5r8W6GHQsO9UpaSBuAMflO+2fnDGeJ6hO3BadIkpZGp9VQToOcaTy1757CF9k7flqVeDNFl56fcfZ0KnVNLVoWsepJCUjOwPU5xFGOFxtdGjPuO96t59BXQm6bU5yXW264EKb5rIQU+tKshRSckEjIOR0iCE4th5WhYSvlpwR2On/AJETX69NVC5nPNvLdLOuVQpwELCRqGDke5z/ALHOYeHxIhBCsJRkA7jcg/0Y1xQUY/hF89+5pHoDIqUuSl1LzqLaSc++II7GP0G/2j/IIiZWuGNU6dK1OW5E80l1vOR2KT7gjcGFd8QFsJ4cVam3NQn3nfiLipaYZfOQFJSCkhQwegI+0EEdQ2/L4O2uGuLgBr1vzxbbaaqsuszLpAwVAgE6T9Ns98RI+HiUTUuIFKp3IYeadJmZkvIC8pQM437Z2+8EEcx2mjfKvNNDQUCdvZy622qnKvt0fmuAqLDIGjfRuHCr27QQQQGB/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Please Me
+                                    <div class="name">In My Feelings
 Explicit content</div>
-                                    <div class="artist">Cardi B &amp; Bruno Mars</div>
+                                    <div class="artist">Drake</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUBAv/EACoQAAICAgEDAgQHAAAAAAAAAAECAAMEESEFEjEiQQZRYXETMjOBkaGx/8QAGgEAAgMBAQAAAAAAAAAAAAAABAUCAwYBB//EAB8RAAIDAAEFAQAAAAAAAAAAAAECAAMRBAUSITFBE//aAAwDAQACEQMRAD8Arj25nT48yPHW289tNb2EeQqk/wCSW3HyalDXUXVo3ALoQCf3mW7Tmz13vXc2eITwrKToMN/edJ4nJP3LXTrBVm0ObDWA35vl9YSsPaEkHK+JTZQth0yljXOn6djJvz2nUnyM24Y9j3XO4Rd+tyQP5lDHb6yLq2cMLFNhAYFgujLApJyQLqqlj8mI+U2RmVjHsNhLhQwPG/nHDuOgCeYl0kJ1EZCuib9XaBr76EZOn59WbWWqYHR0ZZcvrIPwrBpDHyZoBuBzCRtCDZGOzGqu0eTMj4qz1TDSrfqdv65hCHVKC4iLmWMtLZFk35H4OQrHsZGNZ58HxGf4NZaMCw7JJYbO/fUIQi8AIRF3TmP7gk/DGEZXPMIQi4qJohY0/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Confirmation</div>
+                                    <div class="name">Come Around Me</div>
                                     <div class="artist">Justin Bieber</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAQFBwIGAQMI/8QAKhAAAgEDAgUDBAMAAAAAAAAAAQIDAAQRBRIGEyExQRRxkTJRgaEiYfD/xAAZAQACAwEAAAAAAAAAAAAAAAACBAABAwX/xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIRMSEDEv/aAAwDAQACEQMRAD8A8q1I6ZYC6V5JpNkSd8Dqfb5qOqXLbLWFISmc/UgOSSBnJPtRQSvoE264NjTrBw+zftZwqHPUDyaV1DSuVA01vkogBbz0z3zW78NcJxajZKnqpYpJFDbioIA/wNIappcmj3UtjI7ur/x3oMcwHsPnxTKjGawSfpOD2yvqK7JUaORkcFWUkEHuDRSuHQMKds1M7wRvJsQEjI8Gkqd04x83bKduSCG+xqIp4WDwxZm802H0upzw3gumVFEh6xjA2n85I+Kk+MrQ2VsbqaUySW0YV5MkbmJyBj9/iluG7O4ttIiuLe5aWSJgXQMCu3OT0IB/feo7j7WIry2TT45MyE82Qk5APhff+6ZVxViLr0l8ldO292Y9yc0UOpU4IIopUfMe9crkEYooqyGy2N7d6ZbLJODy5FOxQ5GTjoSPI61DiRpHaRySx+on70UVrFt6YuCXUAGcA4ooorSkA2z/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Best Friends</div>
+                                    <div class="artist">The Weeknd</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAgHBf/EADEQAAIBAwIEAwUJAQAAAAAAAAECAwAEEQUhBgcSQTFRcRMUYYGSCBUidYKisbPR0v/EABgBAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgIBBQEAAAAAAAAAAAAAAAECEQMSEyExURT/2gAMAwEAAhEDEQA/ANIXcTzWssUU7wSOpCyoASh8wDtXiLpF5Cre8cT35DMCC6wrjY5Awo8cj6fWmEeIrl3PxLR+DWhm9l1Tzqqq/jnB3XvkfCseLFrTdkuVOhv+7bjpIPFN6fI4hyP2717onhJ2mi+sVmzTuXfEaSzJY2drqNvDI0KTyXQhLhTjdcHf50x2nAfGCrldD01fS/H/ADR4JeHSlH07oPXaiq2lxSwaZaRXChJo4UWRQcgMFAIB7796KoYJp5UggkmlZUjRSzMxwAB3J7Vl77QfF1lqvEOlx2F1FcWtovWzwyB1DE4IGPE7VoPmNvwBxJ+XXH9ZrCOlx+9apbWzE9Mkqp8icVqwSqLRXPs1BpHOPTYUK2eia7dozGTrgtgwOd98HY0yWXOa0K5fhfiZV8zZbfzU3K5LXSNGuLKAIq291ImM9hjFdEt76Fk/Ewx8fCu/ob4G3TIbG7W/sre8SOSNbiNZQkgwyhhnBHY70VPkHdcdJ8PSisUuWWFfUbODUdPubK8j9pa3MbQypkjqRhgjI3G1IsHJngK3nSaLQVEiMGU+8ynBH6qKKm3HoNKxituDtDtpGeCzZHY9TETvufqq+dFsSnQYn6fL2rf7RRUWxbL8aLHGiIMKoCjftRRRQH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sultans of Swing</div>
+                                    <div class="artist">Dire Straits</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQQHA//EACwQAAIBAwMCBQIHAAAAAAAAAAECAwAEEQUSIQYTFDFBUZFhgRUiI3HB0eH/xAAaAQACAwEBAAAAAAAAAAAAAAAFBgEDBAIH/8QAJBEAAgIBAwQCAwAAAAAAAAAAAQIAAxEEEiEFEyNBBjEUM3H/2gAMAwEAAhEDEQA/AJLvKZ+AKcWjLIqDaSFyTx6VKR3CJqG1huU8eeK6N0/r+mRWskbWhhn2dv8ATAcN67iTyOKZNRrmqwqjJg2ro9Vim6xsAeovWQ3UxKjbGhCgYx8e9RWsdXSw/iNtDEzGG42JKrhCV3MMY2nGCuPXNUlvNdLMZNrG3OXXjhcngfFKpOmdLn8VJJ4ktcP3GzKBsbJP5cDjlj55qlNRZcNiHn3LNXoqafLsIT1me1lrwutZawREKpCJRKrNzwp8ioHkwPBNFZSxgspp54O53JgqtufIAUADH2A+KKLUB9vkPMU9V2y/iHEjYpA0u4ud5ySc+Qqr6XheUkgiRnyVU+xH+VzqS7CTXMUIDMWQK2c+vNUfT/UBtLoyq6iODannwfUn5pSJZiXLfc9He1MdlUBI5z/Jb6Xb3vhu5IxSEZJBfIbbzjFaj3G+VjGdy/Si86rt7iyR4SsboG3BRjnHmamjqBDMybdrHIFRprPw33P7mzUEdWrCDgCOr282hVII+1FTc2pMWyQ32b+6KOL1arEWbPjY3fch5La4hlYKCVJ4K+orZs7CeQg4EEQwS8nv+1FFLrWMFzDlWmRnwYytLFzdBJJ3jtpGCyTFdzBM8kL/ABmqa2ttB7aRHVbtAAoDG04B9c4YnA+lFFZy5fG6bloWn9fGZpa3DplvsGm6jPdndhy9v2gB7gkkkZ9wOKKKK7AEjmf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Duvet</div>
+                                    <div class="artist">bôa</div>
                                 </div>
                             </div>
                         </div>
